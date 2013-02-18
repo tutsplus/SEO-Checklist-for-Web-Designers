@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export2.dtd">
+<en-export export-date="20130218T085917Z" application="Evernote" version="Evernote Mac 5.0.5 (400805)">
+<note><title>SEO Checklist</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+<h1 style="margin: 0px 0px 18px; padding: 0px; color: rgb(64, 64, 64); line-height: 36px; font-size: 30px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif;">SEO Checklist</h1>
+<p style="margin: 0px 0px 9px; padding: 0px; color: rgb(115, 115, 115); font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif; font-size: 13px; line-height: 18px;">Thank you for downloading the SEO checklist. Learn it by heart or simply print it out for your next SEO project.</p>
+<p style="margin: 0px 0px 9px; padding: 0px; color: rgb(115, 115, 115); font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif; font-size: 13px; line-height: 18px;">You can consult the <a href="http://webdesign.tutsplus.com/sessions/seo-fundamentals-for-web-designers/" style="color: rgb(0, 105, 214);">complete SEO session</a> on Webdesigntuts+ for future reference.</p>
+<hr style="margin: 0px 0px 19px; border-top-width: 0px; border-right-width: 0px; border-left-width: 0px; border-bottom-style: solid; border-bottom-color: rgb(204, 204, 204); color: rgb(115, 115, 115); font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif; font-size: 13px; line-height: 18px;"/>
+<h1 style="margin: 0px 0px 18px; padding: 0px; color: rgb(64, 64, 64); line-height: 36px; font-size: 30px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif;">On-site SEO</h1>
+<p style="margin: 0px 0px 9px; padding: 0px; color: rgb(115, 115, 115); font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif; font-size: 13px; line-height: 18px;">These SEO techniques can influence the entire website.</p>
+<h3 style="margin: 0px; padding: 0px; color: rgb(64, 64, 64); line-height: 36px; font-size: 18px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif;">Accessibility</h3>
+<ul style="color: rgb(115, 115, 115); font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif; font-size: 13px; line-height: 18px;">
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> Page access</strong>: If a search engine can't reach a page, it's impossible to have it indexed. Make sure that the robots.txt file or robots meta tag isn't accidentally blocking important pages.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Block inappropriate pages</strong>: On the other hand: some pages should not be indexed, for example incomplete pages or confidential pages. Block them via the robots.txt file or robots meta tag.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Pagination</strong>: help search engines handle pagination by implementing the <code style="font-family: Monaco, 'Andale Mono', 'Courier New', monospace; background-color: rgb(254, 233, 204); color: rgba(0, 0, 0, 0.746094); padding: 1px 3px; font-size: 12px; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px;">rel=&quot;next&quot;</code> and <code style="font-family: Monaco, 'Andale Mono', 'Courier New', monospace; background-color: rgb(254, 233, 204); color: rgba(0, 0, 0, 0.746094); padding: 1px 3px; font-size: 12px; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px;">rel=&quot;prev&quot;</code> tag.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Redirects</strong>: use 301-redirects instead of 302.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>404 errors</strong>: try to reduce the amount of 404 errors to a minimum.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Site speed</strong>: site speed has become a ranking factor. Faster is better. Use Google Page Speed to check the loading time of your pages.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Mobile accessibility</strong>: is your site accessible for mobile devices? Google recommends a responsive design.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Duplicate content</strong>: check for duplicate content in Google Webmaster tools, via the site: search command or via site crawling software. Duplicate content issues can be solved via a 301-redirect, the <code style="font-family: Monaco, 'Andale Mono', 'Courier New', monospace; background-color: rgb(254, 233, 204); color: rgba(0, 0, 0, 0.746094); padding: 1px 3px; font-size: 12px; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px;">rel=&quot;canonical&quot;</code> tag, meta robots tag, URL rewriting or Google Webmaster Tools.</p>
+</li>
+</ul>
+<h3 style="margin: 0px; padding: 0px; color: rgb(64, 64, 64); line-height: 36px; font-size: 18px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif;">URL Structure</h3>
+<ul style="color: rgb(115, 115, 115); font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif; font-size: 13px; line-height: 18px;">
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>www or non-www</strong>: Choose one and make sure the internal and inbound links use the same format. Use Google Webmaster Tools to set the preferred version. Automatic URL rewriting is also possible.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Domain extension</strong>: Local businesses might want to consider choosing a country-specific domain extension for better ranking.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Subdomain or subfolder</strong>: Subdomains are often seen by Google as separate domains, so it's best to use subfolders. If you have several, non-related products you can still opt for a subdomain though.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Descriptive URLs</strong>: use a descriptive page name instead of a random number of words and letters. The same goes for subfolders.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Hyphens</strong>: use hyphens to split words in a URL.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>URL parameters</strong>: you can help Google handle URL parameters via Google Webmaster tools.</p>
+</li>
+</ul>
+<h3 style="margin: 0px; padding: 0px; color: rgb(64, 64, 64); line-height: 36px; font-size: 18px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif;">Sitemaps</h3>
+<ul style="color: rgb(115, 115, 115); font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif; font-size: 13px; line-height: 18px;">
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>HTML sitemap</strong>: a HTML sitemap is not only useful for visitors, but also for search engines. It helps them understand your site architecture.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>XML sitemap</strong>: this sitemap is only visible for search engines. XML sitemaps allow you to add metadata which can be used to provide additional information about the content of each page. An XML sitemap can contain a maximum of 50,000 links.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Image sitemap</strong>: The Image Sitemap can help your images show up in Google Image Search results and get you some extra visitors.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Video sitemap</strong>: a video sitemap can help with the creation of rich snippets for your page.</p>
+</li>
+</ul>
+<hr style="margin: 0px 0px 19px; border-top-width: 0px; border-right-width: 0px; border-left-width: 0px; border-bottom-style: solid; border-bottom-color: rgb(204, 204, 204); color: rgb(115, 115, 115); font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif; font-size: 13px; line-height: 18px;"/>
+<h1 style="margin: 0px 0px 18px; padding: 0px; color: rgb(64, 64, 64); line-height: 36px; font-size: 30px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif;">On-page SEO</h1>
+<p style="margin: 0px 0px 9px; padding: 0px; color: rgb(115, 115, 115); font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif; font-size: 13px; line-height: 18px;">On-page SEO techniques optimize a single page for search engines.</p>
+<h3 style="margin: 0px; padding: 0px; color: rgb(64, 64, 64); line-height: 36px; font-size: 18px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif;">Keyword</h3>
+<ul style="color: rgb(115, 115, 115); font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif; font-size: 13px; line-height: 18px;">
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Single keyword per page</strong>: Make sure every page targets a single keyword.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Keyword research</strong>: ranking for the correct keywords is very important. Do some research and see which keyword has the highest traffic potential and the least amount of competition. Balance these two factors.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Keyword in URL</strong>: use the keyword in the URL (page name).</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Keyword in title</strong>: use the keyword in the title of the page, preferably in the beginning. This is an important indicator for search engines to categorise a page.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Keyword in headings</strong>: use the keyword in one or more headings (h1, h2, h3...). The H1 tag should only be used once on a page and should be used for the title.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Keyword in content</strong>: it's impossible to write about a topic without using the keyword. Use the keyword, including variations and synonyms throughout the text. Try to use it in the first paragraph too.</p>
+</li>
+</ul>
+<h3 style="margin: 0px; padding: 0px; color: rgb(64, 64, 64); line-height: 36px; font-size: 18px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif;">Content</h3>
+<ul style="color: rgb(115, 115, 115); font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif; font-size: 13px; line-height: 18px;">
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Title</strong>: max. 70 characters long.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Unique value</strong>: content that provides a unique value attracts link naturally.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Content type</strong>: choosing a different content type, e.g. infographic, comic, quiz... can help you attract links.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Crawlable</strong>: Search engines have difficulties crawling certain content types, for example images or flash content. A combination of HTML, CSS and webfonts can be used to solve certain crawlability problems.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Language targeting</strong>: inform search engines about a translated page by using the <code style="font-family: Monaco, 'Andale Mono', 'Courier New', monospace; background-color: rgb(254, 233, 204); color: rgba(0, 0, 0, 0.746094); padding: 1px 3px; font-size: 12px; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px;">rel=&quot;alternate&quot; hreflang=&quot;x&quot;</code> annotation.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Freshness</strong>: search engines like new content. Regularly posting or updating pages is recommended.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Content length</strong>: content length is correlated with rankings. Try to aim for at least 300 words.</p>
+</li>
+</ul>
+<h3 style="margin: 0px; padding: 0px; color: rgb(64, 64, 64); line-height: 36px; font-size: 18px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif;">Images</h3>
+<ul style="color: rgb(115, 115, 115); font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif; font-size: 13px; line-height: 18px;">
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>File name</strong>: choose a descriptive file name instead of random words and numbers.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Alt-tag</strong>: don't forget to add an alt-tag with a short description of the image.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Size</strong>: keep your images as small as possible to improve page load times.</p>
+</li>
+</ul>
+<h3 style="margin: 0px; padding: 0px; color: rgb(64, 64, 64); line-height: 36px; font-size: 18px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif;">Display in SERP</h3>
+<ul style="color: rgb(115, 115, 115); font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif; font-size: 13px; line-height: 18px;">
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Meta description</strong>: change the description of a page in the SERPs by adding a meta-description tag. A good description convinces surfers to click on the link. Don't forget to use keywords because they appear in bold.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Structured data</strong>: add structured data to your page that can be used to generate rich snippets. Rich snippets can vastly improve the CTR of your pages. Structured data can be added via microdata, RFDa or microformats.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Authorship information</strong>: add authorship information to your pages. AuthorRank is a relatively new ranking factor.</p>
+</li>
+</ul>
+<h3 style="margin: 0px; padding: 0px; color: rgb(64, 64, 64); line-height: 36px; font-size: 18px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif;">Social Snippets</h3>
+<ul style="color: rgb(115, 115, 115); font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif; font-size: 13px; line-height: 18px;">
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Thumbnail</strong>: choose an eye-catching thumbnail that's at least 200 x 200 pixels.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Title</strong>: the title acts as an anchor text for your social snippet.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>URL</strong>: the URL of the underlying page. Don't forget to tag your URL using Google's URL builder for additional information in Google Analytics.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Description</strong>: a short description of the content. You can use the meta-description for this.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Twitter card</strong>: Twitter Cards use the Open Graph tags, supplemented with several Twitter-specific tags.</p>
+</li>
+</ul>
+<h3 style="margin: 0px; padding: 0px; color: rgb(64, 64, 64); line-height: 36px; font-size: 18px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif;">Local Search</h3>
+<ul style="color: rgb(115, 115, 115); font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif; font-size: 13px; line-height: 18px;">
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Local optimization</strong>: optimize your page as you would do for any other keyword. Use the location (for example Palo Alto) in the page title, url and content.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Structured data</strong>: location information can also be added via structured data.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Multiple locations</strong>: if you have a chain of businesses, create a unique page with a separate URL for each location.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Google+</strong>: create a Google+ Local page for your business.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Local listing</strong>: get links from local listings (YellowPages, Foursquare, Yelp...) to improve your visibility for local search queries.</p>
+</li>
+</ul>
+<hr style="margin: 0px 0px 19px; border-top-width: 0px; border-right-width: 0px; border-left-width: 0px; border-bottom-style: solid; border-bottom-color: rgb(204, 204, 204); color: rgb(115, 115, 115); font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif; font-size: 13px; line-height: 18px;"/>
+<h1 style="margin: 0px 0px 18px; padding: 0px; color: rgb(64, 64, 64); line-height: 36px; font-size: 30px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif;">Off-site SEO</h1>
+<p style="margin: 0px 0px 9px; padding: 0px; color: rgb(115, 115, 115); font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif; font-size: 13px; line-height: 18px;">Techniques that are beyond our own website.</p>
+<ul style="color: rgb(115, 115, 115); font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', Arial, sans-serif; font-size: 13px; line-height: 18px;">
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Inbound links</strong>: check the number of inbound links.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Authority</strong>: links from sites with a high domain authority are more valuable.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Anchor text</strong>: the anchor text is the text that is used to link to your site. Keywords in an anchor text are very useful, but don't overdo this. Make sure your link profile looks natural.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Diversity</strong>: try to gain links from multiple, relevant domains instead of only a handful of sites.</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Nofollow</strong>: inbound links that use the <code style="font-family: Monaco, 'Andale Mono', 'Courier New', monospace; background-color: rgb(254, 233, 204); color: rgba(0, 0, 0, 0.746094); padding: 1px 3px; font-size: 12px; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px;">rel=&quot;nofollow&quot;</code> tag passe no PageRank</p>
+</li>
+<li>
+<p style="margin: 0px 0px 9px; padding: 0px;"><strong><en-todo/> </strong><strong>Bad links</strong>: links from spammy sites can hurt your rankings. Contact the webmaster to remove them or use the Disavow Tool. </p>
+</li>
+</ul>
+</en-note>
+]]></content><created>20130218T085558Z</created><updated>20130218T085817Z</updated><note-attributes><author>Ian Yates</author></note-attributes></note>
+</en-export>
