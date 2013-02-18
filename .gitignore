@@ -1,0 +1,3 @@
+# Ignore all emacs backup files
+*~
+._*
