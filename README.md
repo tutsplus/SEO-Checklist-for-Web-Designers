@@ -1,4 +1,4 @@
-##SEO-Checklist-for-Web-Designers
+#SEO-Checklist-for-Web-Designers
 
 A checklist to help web designers bring order to their SEO chaos. You'll find lists here in various formats;
 
